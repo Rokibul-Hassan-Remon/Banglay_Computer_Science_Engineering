@@ -1,0 +1,26 @@
+## F𝐫𝐞𝐞 𝐂𝐞𝐫𝐭𝐢𝐟𝐢𝐜𝐚𝐭𝐢𝐨𝐧𝐬 𝐭𝐨 𝐚𝐝𝐝 𝐭𝐨 𝐲𝐨𝐮𝐫 𝐑𝐞𝐬𝐮𝐦𝐞 𝐢𝐧 𝟐𝟎𝟐𝟒:
+
+1. Data Science  [](https://mylearn.oracle.com/ou/learning-path/become-an-oci-data-science-professional-2023/121944)
+2. React  [](https://hackerrank.com/skills-verification/react_basic)
+3. Angular [](https://hackerrank.com/skills-verification/angular_intermediate) 
+4. SEO [](https://academy.hubspot.com/courses/seo-training) 
+5. Digital Marketing from Google [](http://learndigital.withgoogle.com/digitalgarage/course/digital-marketing)
+6. Cloud Security  [](https://mylearn.oracle.com/ou/learning-path/become-a-cloud-security-professional-2023/121923)
+7. Web Dev (HTML and CSS)  [](https://freecodecamp.org/learn/2022/responsive-web-design/)
+8. Python  [](https://cs50.harvard.edu/python/)
+9. JavaScript  [](https://hackerrank.com/skills-verification/javascript_intermediate)
+10. DevOps  [](https://mylearn.oracle.com/ou/learning-path/become-an-oci-devops-professional-2023/121756)
+11. Machine Learning [](https://freecodecamp.org/learn/machine-learning-with-python/) 
+12. Java  [](https://data-flair.training/courses/free-java-course/)
+13. C++  [](http://learn.saylor.org/course/view.php?id=65)
+14. Go [](https://hackerrank.com/skills-verification/golang_intermediate) 
+15. Neo4j Certified Professional [](https://graphacademy.neo4j.com/courses/neo4j) 
+16. Redis Certified Developer [](https://university.redis.com/certification/) 
+17. MongoDB  [](https://learn.mongodb.com/learning-paths/mongodb-for-sql-professionals)
+18. Backend Development [](https://freecodecamp.org/learn/back-end-development-and-apis/) 
+19. SQL [](https://hackerrank.com/skills-verification/sql_advanced) 
+20. C#  [](https://freecodecamp.org/learn/foundational-c-sharp-with-microsoft/)
+21. Real life project build react.js[](https://www.youtube.com/watch?v=J7BGuuuvDDk&list=PLqm86YkewF6QbR7QwqYWcAbl70Zhv0JUE)
+22. Aptitude[](https://www.indiabix.com/) 
+23. 
+Certificate Are useless. Only skill
