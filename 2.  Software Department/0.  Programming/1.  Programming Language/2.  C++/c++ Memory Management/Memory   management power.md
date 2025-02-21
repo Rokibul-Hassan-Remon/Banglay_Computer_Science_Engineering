@@ -1,0 +1,2 @@
+1. website : [https://www.educative.io/blog/cpp-memory-management#cpp-mem-mgmt?utm_campaign=brand_educative&utm_source=linkedin&utm_medium=social&utm_content=text_fahim_Aug_13&utm_term=&eid=5082902844932096]
+2. 
