@@ -1,0 +1,32 @@
+{
+	"nodes":[
+		{"id":"4e55a71eefa7fbe4","type":"text","text":"\tCollection of \n\t(Big Number)","x":-696,"y":-125,"width":200,"height":85,"color":"5"},
+		{"id":"a8f3dc3035b52379","type":"text","text":"**Base**","x":-665,"y":-220,"width":138,"height":50,"color":"4"},
+		{"id":"973a4f01ce0e014e","type":"text","text":"\tDatabase  System ","x":-467,"y":-364,"width":300,"height":60,"color":"3"},
+		{"id":"94b7e00c249541c4","type":"text","text":"**Data**","x":-467,"y":-220,"width":138,"height":50,"color":"4"},
+		{"id":"1ec6caf33731b4fd","type":"text","text":"\tData","x":-455,"y":-110,"width":126,"height":50,"color":"5"},
+		{"id":"2520cfb358c695e8","type":"text","text":"\tSystem","x":-256,"y":-220,"width":138,"height":50,"color":"4"},
+		{"id":"c8a5207cb70cf373","type":"text","text":"\tManage  ","x":-260,"y":-125,"width":147,"height":65,"color":"5"},
+		{"id":"23eeb869689cbff7","type":"text","text":"\tData   Management ","x":85,"y":-223,"width":189,"height":98,"color":"4"},
+		{"id":"a552bf2c43987825","type":"text","text":"\tData  Management System","x":114,"y":-371,"width":320,"height":67,"color":"3"},
+		{"id":"93f393b3f7287e7f","type":"text","text":"\tmechanism for\n\tdata manipulation","x":205,"y":-13,"width":291,"height":100,"color":"5"},
+		{"id":"1db1e11674aac49b","type":"text","text":"\tSystem","x":304,"y":-223,"width":150,"height":95,"color":"4"},
+		{"id":"966c05643b781df6","type":"text","text":"\tData Storage\n\tStructure\n\t ","x":-100,"y":-13,"width":280,"height":100,"color":"5"},
+		{"id":"37e5566592d156cd","type":"text","text":"`\tDatabase Management System`","x":-208,"y":-600,"width":348,"height":60},
+		{"id":"d7defb1db3f158b5","type":"text","text":"## `DBMS :`  **It is a** collection **of** interrelated data **and** **a** set **of** programs **to** access **those** data. ","x":-675,"y":100,"width":1054,"height":100}
+	],
+	"edges":[
+		{"id":"4e098a74455e02f1","fromNode":"973a4f01ce0e014e","fromSide":"bottom","toNode":"2520cfb358c695e8","toSide":"top"},
+		{"id":"017331048e2ebc1a","fromNode":"94b7e00c249541c4","fromSide":"bottom","toNode":"1ec6caf33731b4fd","toSide":"top"},
+		{"id":"1e27ebec91e02db0","fromNode":"a8f3dc3035b52379","fromSide":"bottom","toNode":"4e55a71eefa7fbe4","toSide":"top"},
+		{"id":"aa7dd8edd8bd2698","fromNode":"2520cfb358c695e8","fromSide":"bottom","toNode":"c8a5207cb70cf373","toSide":"top"},
+		{"id":"59e3baf2c31a474a","fromNode":"a552bf2c43987825","fromSide":"bottom","toNode":"1db1e11674aac49b","toSide":"top"},
+		{"id":"4aaa12eae9057bbe","fromNode":"a552bf2c43987825","fromSide":"bottom","toNode":"23eeb869689cbff7","toSide":"top"},
+		{"id":"7840f5a612b6c1a2","fromNode":"973a4f01ce0e014e","fromSide":"bottom","toNode":"94b7e00c249541c4","toSide":"top"},
+		{"id":"36f7d62c5fd7b93c","fromNode":"973a4f01ce0e014e","fromSide":"left","toNode":"a8f3dc3035b52379","toSide":"top"},
+		{"id":"60f804d68104157b","fromNode":"23eeb869689cbff7","fromSide":"bottom","toNode":"966c05643b781df6","toSide":"top"},
+		{"id":"141583e3f25c3241","fromNode":"23eeb869689cbff7","fromSide":"bottom","toNode":"93f393b3f7287e7f","toSide":"top"},
+		{"id":"f72864d101622f17","fromNode":"37e5566592d156cd","fromSide":"bottom","toNode":"973a4f01ce0e014e","toSide":"top"},
+		{"id":"8db36ce99bcc16dc","fromNode":"37e5566592d156cd","fromSide":"bottom","toNode":"a552bf2c43987825","toSide":"top"}
+	]
+}

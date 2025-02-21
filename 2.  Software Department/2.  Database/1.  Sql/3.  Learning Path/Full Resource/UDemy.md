@@ -1,0 +1,5 @@
+Introduction to dabases and SQL querying: Course Link: [](https://www.udemy.com/course/introduction-to-databases-and-sql-querying/)
+SQL: The Hitch Hikers Guide To Writing SQL Queries[]( )
+3. Advanced Databases and SQL Querying[](https://www.udemy.com/course/advanced-tsql-querying-using-sql-2014/)
+4. Oracle SQL - A Complete Introduction [](https://www.udemy.com/course/introduction-to-oracle-sql/)
+5. Database Design []()

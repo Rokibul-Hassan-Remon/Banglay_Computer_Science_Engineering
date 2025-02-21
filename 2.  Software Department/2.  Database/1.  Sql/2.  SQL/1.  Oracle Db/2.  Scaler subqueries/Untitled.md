@@ -1,0 +1,1 @@
+SQL allows subqueries to occur wherever an expression returning a value is permitted, provided the subquery returns only one tuple containing a single attribute; such sub queries are called scalar subqueries.
