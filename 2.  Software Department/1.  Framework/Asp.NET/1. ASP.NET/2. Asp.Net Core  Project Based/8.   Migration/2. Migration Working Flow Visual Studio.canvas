@@ -1,0 +1,13 @@
+{
+	"nodes":[
+		{"id":"31a6e12928a1aefb","type":"text","text":"Steps of *Migration*\nin **Visual Studio**","x":-2060,"y":-520,"width":250,"height":60,"color":"3"},
+		{"id":"084524c7ece72878","type":"text","text":"**Build Process**","x":-1700,"y":-340,"width":250,"height":60,"color":"2"},
+		{"id":"a70a404298677f30","type":"text","text":"**Add Migration** Command ","x":-1340,"y":-180,"width":320,"height":60,"color":"2"},
+		{"id":"3c4fe83e5a5b8f29","type":"text","text":"**Migration Script**:","x":-920,"y":40,"width":250,"height":60,"color":"2"}
+	],
+	"edges":[
+		{"id":"83661ed302ae3998","fromNode":"31a6e12928a1aefb","fromSide":"bottom","toNode":"084524c7ece72878","toSide":"top","label":"1"},
+		{"id":"b13ef3e55713cb80","fromNode":"084524c7ece72878","fromSide":"bottom","toNode":"a70a404298677f30","toSide":"top","label":"2"},
+		{"id":"f96472ae58059a86","fromNode":"a70a404298677f30","fromSide":"bottom","toNode":"3c4fe83e5a5b8f29","toSide":"top","label":"3"}
+	]
+}

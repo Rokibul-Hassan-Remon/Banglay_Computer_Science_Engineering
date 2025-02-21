@@ -1,0 +1,13 @@
+{
+	"nodes":[
+		{"id":"69393041b2555a7c","type":"text","text":"**Configuration( )**","x":-420,"y":-60,"width":300,"height":70,"color":"3"},
+		{"id":"c5b64ef53060fa6a","type":"text","text":"**Dependency Injection** ","x":60,"y":-260,"width":280,"height":80,"color":"4"},
+		{"id":"c86bb9927a2af7da","type":"text","text":"**Handle appSetting.JSON** ","x":120,"y":40,"width":260,"height":60,"color":"6"},
+		{"id":"f2e0263a42d510d7","type":"text","text":"**Services(  )**","x":-362,"y":-360,"width":182,"height":60,"color":"1"}
+	],
+	"edges":[
+		{"id":"ce4765da93aedcad","fromNode":"f2e0263a42d510d7","fromSide":"right","toNode":"c5b64ef53060fa6a","toSide":"left"},
+		{"id":"140619a0c29b0b2c","fromNode":"69393041b2555a7c","fromSide":"right","toNode":"c86bb9927a2af7da","toSide":"left"},
+		{"id":"b77147ac309bb6b0","fromNode":"f2e0263a42d510d7","fromSide":"bottom","toNode":"69393041b2555a7c","toSide":"top","label":"(No Relationship between these two"}
+	]
+}
