@@ -1,0 +1,281 @@
+{
+  "main": {
+    "id": "cc09454f3a24820e",
+    "type": "split",
+    "children": [
+      {
+        "id": "9bca7f3069be1533",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "00dae4e1e197eef2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "N            2.  Software Engineering/1.  Framework/Asp.NET/7. Udemy ASP.NET/18. Configuration(appSetting.json)/1. Access of appSetting.json/1. Access of appSetting.json.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "1. Access of appSetting.json"
+            }
+          },
+          {
+            "id": "b76eaa56d8ebc001",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "N            2.  Software Engineering/0.  Programming/1.  Programming Language/8. JavaScript/1. Learning Path/1. YouTube.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "1. YouTube"
+            }
+          },
+          {
+            "id": "301db3b735d24726",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "N            8.  Job/10. Internship Program/2. Learnathon 3.0/UI Design/2. Login Page.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "2. Login Page"
+            }
+          },
+          {
+            "id": "65116718c1a99a8e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "10.  Operating System/University Lec  in Bang/Untitled.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Untitled"
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "eb372c5dc74e58a3",
+    "type": "split",
+    "children": [
+      {
+        "id": "69b0ec7aa5c28fb5",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "40583259ed643719",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "2c141a25d4e1b4c4",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          },
+          {
+            "id": "ffc8ac895f14483f",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "horizontal",
+    "width": 487.5
+  },
+  "right": {
+    "id": "58b079aa682c54e8",
+    "type": "split",
+    "children": [
+      {
+        "id": "d99f66baa416b141",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "581939285830ca85",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "2.  Software Engineering/1.  Framework/Asp.NET/3.  ADO.NET/ADO .NET     vs    ORM   vs    EF.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for ADO .NET     vs    ORM   vs    EF"
+            }
+          },
+          {
+            "id": "a87a3fb079404343",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "2.  Software Engineering/0.  Programming/2.  Problem solving/2.  Java/1.  FJP/2.  Problem Solving/4. Array/9.  Sub set/3. Code of sub set.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from 3. Code of sub set"
+            }
+          },
+          {
+            "id": "4b26e389afe17511",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "16694368e19a620e",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "N            2.  Software Engineering/0.  Programming/2.  Problem solving/2.  Java/1.  FJP/2.  Problem Solving/9. Recursion/2. Problem Based on Recursion/4. Using Recursion Print the Factorial.md"
+              },
+              "icon": "lucide-list",
+              "title": "Outline of 4. Using Recursion Print the Factorial"
+            }
+          },
+          {
+            "id": "487ef3e209794100",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "workspaces:Manage workspace layouts": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false,
+      "obsidian-git:Open Git source control": false
+    }
+  },
+  "active": "ffc8ac895f14483f",
+  "lastOpenFiles": [
+    "1.  Why are PLs following American Convention/2. All Programming Resources/Bangla Paid Course/LIst of  Course  Website.md",
+    "1.  Why are PLs following American Convention/1. Prog. Simple Terms/5. How to Read a Programming Syntax/1.  If a comma  seperator comes in middle of line.md",
+    "1.  Why are PLs following American Convention/1. Prog. Simple Terms/4. For  while/1.  For  &  while.md",
+    "1.  Why are PLs following American Convention/1. Prog. Simple Terms/3. Statement/Statement.md",
+    "1.  Why are PLs following American Convention/1. Prog. Simple Terms/2. Expression/Non Expression.md",
+    "1.  Why are PLs following American Convention/1. Prog. Simple Terms/2. Expression/Expression.md",
+    "1.  Why are PLs following American Convention/1. Prog. Simple Terms/1.Argument/Argument.md",
+    "1.  Why are PLs following American Convention/2. All Programming Resources/What u must to do.md",
+    "1.  Why are PLs following American Convention/2. All Programming Resources/Untitled",
+    "1.  Why are PLs following American Convention/2. All Programming Resources/Ruberked.com.md",
+    "1.  Why are PLs following American Convention/2. All Programming Resources/My Notes.md",
+    "1.  Why are PLs following American Convention/2. All Programming Resources/Hiring without any  Technical interview on DSA.md",
+    "1.  Why are PLs following American Convention/2. All Programming Resources/Gate CS.md",
+    "1.  Why are PLs following American Convention/2. All Programming Resources/free-courses-bn.md",
+    "1.  Why are PLs following American Convention/2. All Programming Resources/Banglay Resources in Medium.md",
+    "1.  Why are PLs following American Convention/2. All Programming Resources/Bangla Paid Course",
+    "1.  Why are PLs following American Convention/2. All Programming Resources/Bangla All Topics covered.md",
+    "1.  Why are PLs following American Convention/2. All Programming Resources/All Resources.md",
+    "1.  Why are PLs following American Convention/1. Prog. Simple Terms/5. How to Read a Programming Syntax",
+    "1.  Why are PLs following American Convention/1. Prog. Simple Terms/4. For  while",
+    "1.  Why are PLs following American Convention/1. Prog. Simple Terms/3. Statement",
+    "1.  Why are PLs following American Convention/1. Prog. Simple Terms/2. Expression",
+    "1.  Why are PLs following American Convention/1. Prog. Simple Terms/1.Argument",
+    "1.  Why are PLs following American Convention/2. All Programming Resources",
+    "1.  Why are PLs following American Convention/1. Prog. Simple Terms",
+    "1.  Why are PLs following American Convention",
+    "0.  My Obsidian Handmaded Tools/1. Excalidraw Drawing/1.2  Sports.md",
+    "0.  My Obsidian Handmaded Tools/1. Excalidraw Drawing/Home.md",
+    "0.  My Obsidian Handmaded Tools/1. Excalidraw Drawing/1.1 Village Road.md",
+    "0.  My Obsidian Handmaded Tools/NA.md",
+    "N            2.  Software Department/2.  Database/1.  Sql/2.  SQL/1.  Oracle Db/-1. Learning Path/YouTube Free Resources.md",
+    "N            10.  Operating System/University Lec  in Bang/0. Learning Path/Free   Resources    of   OS.md",
+    "N            2.  Software Department/0.  Programming/2.  Problem solving/2.  Java/1.  PepCoding FJP/2.  Problem Solving/11. Sorting Algorithm/11.1 Bubble Sort Algorithm/1. Bubble Sorting.md",
+    "N            2.  Software Department/0.  Programming/2.  Problem solving/2.  Java/1.  PepCoding FJP/2.  Problem Solving/11. Sorting Algorithm/11.3 Insertion Sort Algorithm/1. Insertion Sort Algorithm.md",
+    "N            2.  Software Department/0.  Programming/2.  Problem solving/2.  Java/1.  PepCoding FJP/2.  Problem Solving/9. Recursion/2. Problem Based on Recursion/3. Recursion Tree/Intermidate level/1.  All  possible  keypad  string  is made by the  given  string.md",
+    "N            2.  Software Department/0.  Programming/2.  Problem solving/2.  Java/1.  PepCoding FJP/2.  Problem Solving/9. Recursion/2. Problem Based on Recursion/2. Calling time/6.  Efficient way to calculate the  pow(  base  ,   n  )  (  returning   time  ).md",
+    "N            2.  Software Department/2.  Database/1.  Sql/1. DBMS Theory/1.  Inroduction/1.1.  Visual Structure of Database.canvas",
+    "N            2.  Software Department/1.  Framework/Asp.NET/1. ASP.NET/2. Asp.Net Core  Project Based/2. program.cs/1.6  DI  and.canvas",
+    "Pasted Image 20250110180702_011.png",
+    "Pasted Image 20250110180608_648.png",
+    "Pasted Image 20250110173658_318.png",
+    "Pasted image 20241127115426.png",
+    "N            2.  Software Department/1.  Framework/Asp.NET/1. ASP.NET/2. Asp.Net Core  Project Based/0. Basic Steps Proj/2.  Prior  4 Layer or N Layer/2.  10  Steps connect to Database.png",
+    "N            2.  Software Engineering/0.  Programming/2.  Problem solving/2.  Java/Untitled.canvas",
+    "N            2.  Software Department/Linux/Oracle LInux/Untitled.canvas",
+    "Pasted image 20240925093352.png",
+    "Pasted image 20240925094949.png",
+    "Untitled.canvas",
+    "Pasted Image 20241103165415_084.png",
+    "Pasted image 20241101114045.png",
+    "N            3.  AI/Untitled.canvas",
+    "Pasted image 20241030204909.png",
+    "N            2.  Software Department/1.  Framework/Asp.NET/1. ASP.NET/2. Asp.Net Core  Project Based/8.   Migration/2. Migration Working Flow Visual Studio.canvas",
+    "6.  Software Engineering/2.  Database/2.  NoSql/1. DBMS Theory/1.  Inroduction/1.1.  Visual Structure of Database.canvas",
+    "6.  Software Engineering/4.  Database/2.  NoSql/1. DBMS Theory/1.  Inroduction/1.1.  Visual Structure of Database.canvas",
+    "6.  Software Engineering/4.  Database/NoSql/1. DBMS Theory/1.  Inroduction/1.1.  Visual Structure of Database.canvas"
+  ]
+}
