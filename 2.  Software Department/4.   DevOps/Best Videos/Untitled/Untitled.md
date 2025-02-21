@@ -1,0 +1,13 @@
+Learn DevOps tools For FREE 
+
+Docker for absolute beginners: [https://www.youtube.com/playlist...](https://l.facebook.com/l.php?u=https%3A%2F%2Fwww.youtube.com%2Fplaylist%3Flist%3DPLE1_rz1ItUtnQaPoM8ZcD2XHs5mLDTPd-%26fbclid%3DIwZXh0bgNhZW0CMTAAAR1SXCou0HPjXTTLN2ZEHJweTKoLWySxiANuG-Br-m5x0sXgJn4eHO5U15s_aem_s8OVB0AzZqJXoJpnHdmXIQ&h=AT379rZoNAo8TsbRymnsD0NMaCHQ40TsPuK4KIkI_vyL62pzxDkS-v1o8F0DzuiWlrN9DljKdFI6NY-elaBfA7C_SCDOE2pPOC4tnVeO1RBejxB3WbwEYxeG3xtUliMPJmvC&__tn__=-UK-R&c[0]=AT0l8RvJUYizAPZGuaZpziVql5jEvN_sSFjdKiEfnL1gRQGzSQChodr68yGWdae2VV6jw017I_8jLignWbyE_zlbwIHvf3GrYESDFdjcT6F8JOgtHTttny2PRmpLg7s7N3lB-MUckMfKo87E9bCWXBqeqH-dDDvC__QAzdQio03ShnYoEQy7Us1uj_j2NnwKTY2jUdnA0cPbUVXO3QG7Z66umW58RHltZxu-sBuqTdSLNncLy8qsnPDDC_1FCw)
+
+Kubernetes for absolute beginners: [https://www.youtube.com/playlist...](https://l.facebook.com/l.php?u=https%3A%2F%2Fwww.youtube.com%2Fplaylist%3Flist%3DPLE1_rz1ItUtklKKtmNPyy6KuZIJmbVEvG%26fbclid%3DIwZXh0bgNhZW0CMTAAAR2j2M4XQFbm-__BOaClxkF65bmgRNeuxwetQhd1_6i9ITZM1t7LP5sMJqg_aem_7pzZtlvEZiUk8e2MIxrZyA&h=AT3fi8aw9lTz2ZBinjl72BVGwtT98YQCOnRrmdjYQxNulcFw9gNTLgeWuvxQsaQ7tY4HNz2PStfjiTYkJeDy6zqSbYfA6NjxB_gaG8Bt-tqiky_QSaWlfHprx4AHftKNr-52&__tn__=-UK-R&c[0]=AT0l8RvJUYizAPZGuaZpziVql5jEvN_sSFjdKiEfnL1gRQGzSQChodr68yGWdae2VV6jw017I_8jLignWbyE_zlbwIHvf3GrYESDFdjcT6F8JOgtHTttny2PRmpLg7s7N3lB-MUckMfKo87E9bCWXBqeqH-dDDvC__QAzdQio03ShnYoEQy7Us1uj_j2NnwKTY2jUdnA0cPbUVXO3QG7Z66umW58RHltZxu-sBuqTdSLNncLy8qsnPDDC_1FCw)
+
+Kubernetes advanced topics: [https://www.youtube.com/playlist...](https://www.youtube.com/playlist?list=PLE1_rz1ItUtnlCgJPRSfSianrArOF6WfE&fbclid=IwZXh0bgNhZW0CMTAAAR2cDirbl59hcJD9snhvDra2ewqmZqth15nI_XLNCeyjEK7YJ3QQ7gXXLvY_aem_blzyoZUj_0rYrCkg5BeDEw)
+
+Helm for beginners: [https://www.youtube.com/playlist...](https://www.youtube.com/playlist?list=PLE1_rz1ItUtmKfnWpea2H5eb7GQ4ng2vP&fbclid=IwZXh0bgNhZW0CMTAAAR1SXCou0HPjXTTLN2ZEHJweTKoLWySxiANuG-Br-m5x0sXgJn4eHO5U15s_aem_s8OVB0AzZqJXoJpnHdmXIQ)
+
+Terraform: [https://www.youtube.com/playlist...](https://www.youtube.com/playlist?list=PLE1_rz1ItUtlx9NQ_VtkweGXcOJ3xDf0-&fbclid=IwZXh0bgNhZW0CMTAAAR33ksCm5XqOJweCcF7VarLml07-IhWUeEaQ-G_25Ml2xJztGS7bq-Wim68_aem_BSmqlVH6DPnjWu85Bya_aw)
+
+Linux basics: [https://www.youtube.com/playlist...](https://www.youtube.com/playlist?list=PLE1_rz1ItUtnEPC77zbp6KDonWQgSI8F&fbclid=IwZXh0bgNhZW0CMTAAAR2d8EJiH8e4sRm_hUEIKOQJBi-KBCUJO3H-4qL4LScE9L3bvD_EKfaIhWY_aem_i2LQMYnEGfExc1-DUFSpKw)
