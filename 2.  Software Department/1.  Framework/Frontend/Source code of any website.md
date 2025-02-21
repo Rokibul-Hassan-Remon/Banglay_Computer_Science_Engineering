@@ -1,0 +1,1 @@
+just install a plugin of save all resources in Chrome as a extension : []( )
