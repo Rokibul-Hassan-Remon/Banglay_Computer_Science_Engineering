@@ -1,0 +1,1 @@
+https://www.theproductfolks.com/product-management-case-studies
